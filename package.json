@@ -1,0 +1,27 @@
+{
+  "name": "week-18-hw",
+  "version": "1.0.0",
+  "description": "All the News That's Git to Scrape | A web application that lets users leave comments on the latest news articles scraped from another website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joycetio/MongooseHW.git"
+  },
+  "author": "Joyce Tio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joycetio/MongooseHW/issues"
+  },
+  "homepage": "https://github.com/joycetio/MongooseHW#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.10.4",
+    "request": "^2.81.0"
+  }
+}
