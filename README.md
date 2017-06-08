@@ -1,6 +1,11 @@
 # MongooseHW
 
+# Live Link
+https://mongoose-hw.herokuapp.com/
+
 # To Scrape Articles on the Website
+* Go to https://mongoose-hw.herokuapp.com/scrape 
+* Then go back to the live link to see all the scraped articles!
 
 # Instructions 
 * Create an app that follows this user story: 
